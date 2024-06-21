@@ -28,3 +28,10 @@ Bulma
 The main focus was to learn how to work with API applying GET, POST, DELETE and PATCH methods
 <br/>
 Also practiced with TypeScript
+
+# Contacts
+Telegram - https://t.me/oleksandr_prytula_dev
+<br/>
+Linkedin - https://www.linkedin.com/in/oleksandr-prytula
+<br/>
+Email - o.prytula.dev@gmail.com
